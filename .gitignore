@@ -1,0 +1,7 @@
+/ToobarStyle/debug/*
+debug/* 
+
+*.log 
+*.tlog
+*.opensdf
+
